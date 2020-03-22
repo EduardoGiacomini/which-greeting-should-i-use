@@ -14,3 +14,7 @@
 - [Conclusão](#conclusao)
 - [Licença](#licenca)
 - [Literatura](#literatura)
+
+## Licença
+
+Este repositório é licenciado com os termos do MIT License que fornece os direitos de uso comercial, modificação, distribuição e uso privado de todos os artefatos produzidos. Porém, o autor não irá se responsabilizar e nem dar garantia do uso.
