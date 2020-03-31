@@ -17,7 +17,7 @@ public class GreetingTest {
 
     @Test
     public void shouldAnswerWithGoodMorning() {
-        String greeting = this.greetingResponder.getGreeting(7);
+        String greeting = this.greetingResponder.getGreeting(6);
         assertEquals("Good Morning", greeting);
     }
 
