@@ -1,4 +1,4 @@
-# What greeting should I use?
+# Which greeting should I use?
 :wave: Um simples repositório para estudar conceitos de testes unitários.
 
 [![Java](https://img.shields.io/badge/Java-v13.0.2-green.svg)](https://shields.io/)
