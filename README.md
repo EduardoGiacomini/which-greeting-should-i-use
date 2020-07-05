@@ -8,11 +8,7 @@
 - [O que são testes?](#o-que-sao-testes)
     - [Por que estudar testes?](#por-que-estudar-testes)
     - [Visão geral](#visao-geral)
-- [Testes unitários](#testes-unitarios)
-    - [Partes de um teste unitário](#partes-de-um-teste-unitario)
-- [Conclusão](#conclusao)
 - [Licença](#licença)
-- [Literatura](#literatura)
 
 ## O que são testes?
 Os testes são mecanismos de investigação utilizados para descobrir se um software faz o que foi projetado para fazer e também para descobrir possíveis erros no software antes do seu uso pelos usuários finais. Em sua maioria, os testes são executados com dados fictícios.
