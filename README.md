@@ -4,10 +4,9 @@
 [![Java](https://img.shields.io/badge/Java-v13.0.2-green.svg)](https://shields.io/)
 [![JUnit](https://img.shields.io/badge/JUnit-v4.11-green.svg)](https://shields.io/)
 
-## Tabela de conteúdos
+## Sumário
 - [O que são testes?](#o-que-sao-testes)
-    - [Por que estudar testes?](#por-que-estudar-testes)
-    - [Visão geral](#visao-geral)
+- [Por que estudar testes?](#por-que-estudar-testes)
 - [Licença](#licença)
 
 ## O que são testes?
@@ -19,8 +18,6 @@ Em geral, os testes possuem dois objetivos distintos:
 
 ### Por que estudar testes?
 O principal motivo para se estudar e praticar testes em seus projetos é certificar-se de que o software está pronto para o seu propósito. Isto é, ter a certeza de que o software atende os critérios de aceitação instituidos no início do projeto (geralmente na fase de elicitação de requisitos).
-
-### Visão geral
 
 ## Licença
 Este repositório é licenciado com os termos do MIT License que fornece os direitos de uso comercial, modificação, distribuição e uso privado de todos os artefatos produzidos. Porém, o autor não irá se responsabilizar e nem dar garantia do uso.
